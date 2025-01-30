@@ -1,0 +1,23 @@
+{
+  "preamble": {
+    "title": "rvcas/burner",
+    "description": "Aiken contracts for project 'rvcas/burner'",
+    "version": "0.0.0",
+    "plutusVersion": "v3",
+    "compiler": {
+      "name": "Aiken",
+      "version": "v1.1.10+b25afa2"
+    },
+    "license": "Apache-2.0"
+  },
+  "validators": [
+    {
+      "title": "quantum.burner.else",
+      "redeemer": {
+        "schema": {}
+      },
+      "compiledCode": "5001010023259800b452689b2b20025735",
+      "hash": "22c9a103ed3f2fa97c982d76d6e2af50c5d54ac306983b196c8fcdab"
+    }
+  ]
+}
